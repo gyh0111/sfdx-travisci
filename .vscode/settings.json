@@ -7,5 +7,7 @@
     },
     "terminal.integrated.env.windows": {
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
-    }
+    },
+    "eslint.nodePath": "/Users/younghwan/.vscode/extensions/salesforce.salesforcedx-vscode-lwc-47.4.0/node_modules",
+    "salesforcedx-vscode-apex.java.home": "/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home"
 }
